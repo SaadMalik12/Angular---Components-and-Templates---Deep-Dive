@@ -1,27 +1,88 @@
-# CmpDeepDive
+# Components Deep Dive
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
+An Angular dashboard application built to practice advanced component concepts including inputs & outputs, two-way binding, host elements, component lifecycle, and interacting with component views & content.
 
-## Development server
+## 🚀 Live Demo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+🔗 https://angular-components-and-templates-de.vercel.app/
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📚 Topics Practiced
 
-## Build
+- Angular Components & Templates
+- Inputs & Outputs
+- Two-Way Binding
+- Host Elements
+- Component Lifecycle
+- Interacting with Component Views & Content
+- Reusable UI Components
+- Event Handling
+- Data Binding
+- Responsive Layout Design
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## ✨ Features
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Server status monitoring card
+- Traffic analytics section
+- Support ticket form
+- Reusable Angular components
+- Modern dashboard UI
+- Responsive design
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🛠️ Built With
 
-## Further help
+- Angular
+- TypeScript
+- HTML5
+- CSS3
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd your-repository-name
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+ng serve
+```
+
+Open your browser and visit:
+
+```bash
+http://localhost:4200
+```
+
+---
+
+## 📸 Preview
+
+This project demonstrates advanced Angular component architecture and template features through a clean dashboard interface.
+
+---
+
+## 📄 License
+
+This project is made for learning and practice purposes.
